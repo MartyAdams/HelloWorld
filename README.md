@@ -1,3 +1,5 @@
 # HelloWorld
-Just a simple repository to play with 
-Just a simple little file
+Hi There!
+
+I teach Web Development at Kalamazoo Valley Community College.
+I have been doing this for about 14 years.
